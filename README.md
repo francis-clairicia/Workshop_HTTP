@@ -34,7 +34,7 @@ Le plus banal est tout simplement votre navigateur qui a fait une requête HTTP 
 > 
 > -- <cite>https://developer.mozilla.org/fr/docs/Web/HTTP/Methods</cite>
 
-Il en existe plusieurs, et je vous invite à aller sur le site de Mozilla pour les details. Mais en résumé il y en a 4 pour que vous utiliserez la plus part du temps, dont 2 _tout le temps_ :
+Il en existe plusieurs, et je vous invite à aller sur le site de Mozilla pour les details. Mais en résumé il y en a 4 que vous utiliserez la plus part du temps, dont 2 _tout le temps_ :
 - `GET` : Demander une ressource au serveur (indispensable)
 - `POST` : Ajouter une ressource dans le serveur (Difficile de faire les 2 autres sans avoir fait celui-ci au moins une fois)
 - `PATCH` : Modifier une ressource **déjà présente** dans le serveur
