@@ -2,9 +2,9 @@
 """
 Exercice:
 
-Make a GET request on https://httpbin.org/status and show the response status code
+Make a GET request on https://httpbin.org/status/{expected_status} and show the response status code
 
-If 'expected_status' has value 200, the URL link will be https://httpbin.org/status/200
+For example, if 'expected_status' has value 200, the URL link will be https://httpbin.org/status/200
 
 (To see the complete list of HTTP response codes and their meanings: https://umbraco.com/knowledge-base/http-status-codes/)
 
