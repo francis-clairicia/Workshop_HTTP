@@ -45,7 +45,7 @@ Il en existe plusieurs, et je vous invite à aller sur le site de Mozilla pour l
 Les autres méthodes sont beaucoup plus spécifiques. Je vous laisse faire vos recherches dessus.
 
 ### Les paramètres de requêtes (ou Query params)
-Vous avez déjà une URL, comme celui-ci : https://github.com/francis-clairicia/PyDiamond
+Vous avez déjà vu une URL, comme celui-ci : https://github.com/francis-clairicia/PyDiamond
 
 Ou encore comme celui-ci : https://github.com/francis-clairicia/Py-Game-Case
 
