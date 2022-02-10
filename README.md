@@ -149,4 +149,4 @@ Faites les derniers exercices !
 ## Conclusion
 Savoir faire des requêtes HTTP est devenu un _must have_ pour un développeur de nos jours, que ce soit en tant que Web Developer (ce serait dommage du contraire aussi), ou en étant développeur dans un autre domaine. Ça permet littéralement d'interagir avec Internet ! Bon nombre de scripts et d'automatisation sont basés là-dessus afin d'avoir une expérience optimale pour un service (tel que Github par exemple).
 
-Je peu vous assurer que maitriser cet art ne vous sera que bénéfique :)
+Je peux vous assurer que maitriser cet art ne vous sera que bénéfique :)
