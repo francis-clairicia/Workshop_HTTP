@@ -4,7 +4,7 @@ Exercice:
 
 Show your Epitech organization (EpitechPromo2024 for example).
 
-You must have configure the SSO with your personnal access token to see the information.
+You must have configure the SSO with your personal access token to see the information.
 
 You must see in the terminal:
 - Organisation name: {string}
